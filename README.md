@@ -1,1 +1,2 @@
 # ecommerceomar
+node_modules/
